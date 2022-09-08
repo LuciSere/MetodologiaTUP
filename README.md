@@ -2,4 +2,6 @@
 
 Mi primer repositorio en Github
 
-Me gusta la :pizza: :cat: :heart:
+Me gusta: :pizza: :cat: :heart:
+
+ademas me interesa: :notes: :swimmer: 
