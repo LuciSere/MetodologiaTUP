@@ -1,2 +1,5 @@
 # MetodologiaTUP
-Primer repo para metodologia
+
+Mi primer repositorio en Github
+
+Me gusta la :pizza: :cat: :heart:
